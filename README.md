@@ -11,3 +11,4 @@ The superintendent wants to know what factors influence student performance, and
 
 In this case, the superintendent wants to know if a parent’s education level is a significant factor in student performance. The relevant data is in the Medu and Fedu columns--which, respectively, refer to the level of education of a student’s mother and father. Currently, the data is in text format. For the purposes of analysis, it will be useful to know the average education level of each student’s parents. To make this calculation, you first need to convert the data in the Medu and Fedu columns to number format.
 
+The Sudent Peformance Data worksheet is cleaned data
